@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub Page heading
 
-I'm glad you are here. I plan to talk about ...
+this is a simple file edited only in markup. so whatever.
